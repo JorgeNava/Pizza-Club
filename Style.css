@@ -1,0 +1,43 @@
+#slides1{
+    background-image: url(Imagenes/5.png);
+    background-color: black;
+    background-size: cover;
+}
+#slides2{
+    background-image: url("Imagenes/6.png");
+    background-size: cover;
+}
+#slides3{
+    background-image: url("Imagenes/7.png");
+    background-size: cover;
+}
+#slides4{
+    background-image: url("Imagenes/8.png");
+    background-size: cover;
+}
+.bck{
+    background:black; 
+    size: 900px;
+    width: 1580px;
+}
+
+.nav{
+    font-size: .8cm;
+    color: honeydew;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+}
+.slides{
+    height: 800px; 
+    background-image: url(Imagenes/8.png); 
+    background-size: cover;
+}
+input:invalid {
+    border: 1px solid red;
+  }
+  
+  input:valid {
+    border: 1px solid green;
+  }
